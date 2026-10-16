@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\foreachloop\bin\Debug\net10.0\foreachloop.exe
+D:\scd\HelloWorld\foreachloop\bin\Debug\net10.0\foreachloop.deps.json
+D:\scd\HelloWorld\foreachloop\bin\Debug\net10.0\foreachloop.runtimeconfig.json
+D:\scd\HelloWorld\foreachloop\bin\Debug\net10.0\foreachloop.dll
+D:\scd\HelloWorld\foreachloop\bin\Debug\net10.0\foreachloop.pdb
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.AssemblyInfo.cs
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.dll
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\refint\foreachloop.dll
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.pdb
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachloop.genruntimeconfig.cache
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\ref\foreachloop.dll
+D:\scd\HelloWorld\foreachloop\obj\Debug\net10.0\foreachl.8BEB008A.Up2Date

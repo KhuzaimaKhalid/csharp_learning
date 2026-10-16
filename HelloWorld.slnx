@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="../p1/p1.csproj" Id="2fdbda2b-40da-4a23-83ca-5498676ffd22" />
+  <Project Path="DayOfWeek/DayOfWeek.csproj" Id="99bf8183-dcdd-4364-816f-1d97a8548c7b" />
+  <Project Path="foreachloop/foreachloop.csproj" Id="1ee6f712-43ba-4cd7-8b2b-a7d9e858277f" />
+  <Project Path="GradeCalculator/GradeCalculator.csproj" Id="d096e804-9718-4c5d-b293-97119133b7c2" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="LeapYear/LeapYear.csproj" Id="93329ddf-52f2-47f2-838b-7c9c175e7508" />
+  <Project Path="negativeNUmber/negativeNUmber.csproj" Id="4fb91654-b5fd-4c72-9ffe-ddc674dd3745" />
+  <Project Path="NumberGuessing/NumberGuessing.csproj" Id="fbd7087c-cf54-436d-924c-7a2d145e11cd" />
+  <Project Path="p2/p2.csproj" Id="cd40a55f-189b-4ddf-a7a7-06afb7934b63" />
+  <Project Path="p3/p3.csproj" Id="8d4b5acf-1bd3-4d99-9a92-9da146d65075" />
+  <Project Path="ReverseNumber/ReverseNumber.csproj" Id="37749501-5d2b-4914-b4e4-7bea2abde100" />
+  <Project Path="SingleDArray/SingleDArray.csproj" Id="70aab505-1ba0-4168-ae1a-83deb6c8e5c8" />
+  <Project Path="Table/Table.csproj" Id="fcfcfcfe-0aff-43a8-9d96-a53f9a290d86" />
+</Solution>

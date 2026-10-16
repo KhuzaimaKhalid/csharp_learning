@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\negativeNUmber\bin\Debug\net10.0\negativeNUmber.exe
+D:\scd\HelloWorld\negativeNUmber\bin\Debug\net10.0\negativeNUmber.deps.json
+D:\scd\HelloWorld\negativeNUmber\bin\Debug\net10.0\negativeNUmber.runtimeconfig.json
+D:\scd\HelloWorld\negativeNUmber\bin\Debug\net10.0\negativeNUmber.dll
+D:\scd\HelloWorld\negativeNUmber\bin\Debug\net10.0\negativeNUmber.pdb
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.AssemblyInfo.cs
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.dll
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\refint\negativeNUmber.dll
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.pdb
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.genruntimeconfig.cache
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\ref\negativeNUmber.dll
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negative.3EAA8180.Up2Date

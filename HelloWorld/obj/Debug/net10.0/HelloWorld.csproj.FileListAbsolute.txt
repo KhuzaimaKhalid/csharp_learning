@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+D:\scd\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+D:\scd\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+D:\scd\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+D:\scd\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.Up2Date

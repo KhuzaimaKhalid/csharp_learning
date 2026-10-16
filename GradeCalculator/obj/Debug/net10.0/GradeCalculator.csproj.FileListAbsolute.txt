@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\GradeCalculator\bin\Debug\net10.0\GradeCalculator.exe
+D:\scd\HelloWorld\GradeCalculator\bin\Debug\net10.0\GradeCalculator.deps.json
+D:\scd\HelloWorld\GradeCalculator\bin\Debug\net10.0\GradeCalculator.runtimeconfig.json
+D:\scd\HelloWorld\GradeCalculator\bin\Debug\net10.0\GradeCalculator.dll
+D:\scd\HelloWorld\GradeCalculator\bin\Debug\net10.0\GradeCalculator.pdb
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.AssemblyInfo.cs
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.dll
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\refint\GradeCalculator.dll
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.pdb
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCalculator.genruntimeconfig.cache
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\ref\GradeCalculator.dll
+D:\scd\HelloWorld\GradeCalculator\obj\Debug\net10.0\GradeCal.CC054C6B.Up2Date

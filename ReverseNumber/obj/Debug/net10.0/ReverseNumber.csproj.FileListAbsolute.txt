@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\ReverseNumber\bin\Debug\net10.0\ReverseNumber.exe
+D:\scd\HelloWorld\ReverseNumber\bin\Debug\net10.0\ReverseNumber.deps.json
+D:\scd\HelloWorld\ReverseNumber\bin\Debug\net10.0\ReverseNumber.runtimeconfig.json
+D:\scd\HelloWorld\ReverseNumber\bin\Debug\net10.0\ReverseNumber.dll
+D:\scd\HelloWorld\ReverseNumber\bin\Debug\net10.0\ReverseNumber.pdb
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.AssemblyInfo.cs
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.dll
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\refint\ReverseNumber.dll
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.pdb
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseNumber.genruntimeconfig.cache
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ref\ReverseNumber.dll
+D:\scd\HelloWorld\ReverseNumber\obj\Debug\net10.0\ReverseN.5EA6D12F.Up2Date

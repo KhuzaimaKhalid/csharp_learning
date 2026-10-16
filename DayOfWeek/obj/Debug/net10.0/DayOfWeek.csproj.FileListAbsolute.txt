@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\DayOfWeek\bin\Debug\net10.0\DayOfWeek.exe
+D:\scd\HelloWorld\DayOfWeek\bin\Debug\net10.0\DayOfWeek.deps.json
+D:\scd\HelloWorld\DayOfWeek\bin\Debug\net10.0\DayOfWeek.runtimeconfig.json
+D:\scd\HelloWorld\DayOfWeek\bin\Debug\net10.0\DayOfWeek.dll
+D:\scd\HelloWorld\DayOfWeek\bin\Debug\net10.0\DayOfWeek.pdb
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.AssemblyInfo.cs
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.dll
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\refint\DayOfWeek.dll
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.pdb
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.genruntimeconfig.cache
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\ref\DayOfWeek.dll
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.csproj.Up2Date

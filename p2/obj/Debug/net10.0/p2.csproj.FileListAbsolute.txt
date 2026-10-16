@@ -1,0 +1,15 @@
+D:\scd\HelloWorld\p2\bin\Debug\net10.0\p2.exe
+D:\scd\HelloWorld\p2\bin\Debug\net10.0\p2.deps.json
+D:\scd\HelloWorld\p2\bin\Debug\net10.0\p2.runtimeconfig.json
+D:\scd\HelloWorld\p2\bin\Debug\net10.0\p2.dll
+D:\scd\HelloWorld\p2\bin\Debug\net10.0\p2.pdb
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.AssemblyInfo.cs
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.dll
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\refint\p2.dll
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.pdb
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.genruntimeconfig.cache
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\ref\p2.dll
+D:\scd\HelloWorld\p2\obj\Debug\net10.0\p2.csproj.Up2Date
