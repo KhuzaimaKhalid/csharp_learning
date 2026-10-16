@@ -13,3 +13,4 @@ D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.pdb
 D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.genruntimeconfig.cache
 D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\ref\negativeNUmber.dll
 D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negative.3EAA8180.Up2Date
+D:\scd\HelloWorld\negativeNUmber\obj\Debug\net10.0\negativeNUmber.sourcelink.json

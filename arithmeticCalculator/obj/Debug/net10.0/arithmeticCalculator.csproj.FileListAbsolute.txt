@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\arithmeticCalculator\bin\Debug\net10.0\arithmeticCalculator.exe
+D:\scd\HelloWorld\arithmeticCalculator\bin\Debug\net10.0\arithmeticCalculator.deps.json
+D:\scd\HelloWorld\arithmeticCalculator\bin\Debug\net10.0\arithmeticCalculator.runtimeconfig.json
+D:\scd\HelloWorld\arithmeticCalculator\bin\Debug\net10.0\arithmeticCalculator.dll
+D:\scd\HelloWorld\arithmeticCalculator\bin\Debug\net10.0\arithmeticCalculator.pdb
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.AssemblyInfo.cs
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.sourcelink.json
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.dll
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\refint\arithmeticCalculator.dll
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.pdb
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmeticCalculator.genruntimeconfig.cache
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\ref\arithmeticCalculator.dll
+D:\scd\HelloWorld\arithmeticCalculator\obj\Debug\net10.0\arithmet.536F33E0.Up2Date

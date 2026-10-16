@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\simpleInterestCalculator\bin\Debug\net10.0\simpleInterestCalculator.exe
+D:\scd\HelloWorld\simpleInterestCalculator\bin\Debug\net10.0\simpleInterestCalculator.deps.json
+D:\scd\HelloWorld\simpleInterestCalculator\bin\Debug\net10.0\simpleInterestCalculator.runtimeconfig.json
+D:\scd\HelloWorld\simpleInterestCalculator\bin\Debug\net10.0\simpleInterestCalculator.dll
+D:\scd\HelloWorld\simpleInterestCalculator\bin\Debug\net10.0\simpleInterestCalculator.pdb
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.AssemblyInfo.cs
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.sourcelink.json
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.dll
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\refint\simpleInterestCalculator.dll
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.pdb
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleInterestCalculator.genruntimeconfig.cache
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\ref\simpleInterestCalculator.dll
+D:\scd\HelloWorld\simpleInterestCalculator\obj\Debug\net10.0\simpleIn.F0A9F071.Up2Date

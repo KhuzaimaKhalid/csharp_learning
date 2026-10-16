@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\temperatureConvertor\bin\Debug\net10.0\temperatureConvertor.exe
+D:\scd\HelloWorld\temperatureConvertor\bin\Debug\net10.0\temperatureConvertor.deps.json
+D:\scd\HelloWorld\temperatureConvertor\bin\Debug\net10.0\temperatureConvertor.runtimeconfig.json
+D:\scd\HelloWorld\temperatureConvertor\bin\Debug\net10.0\temperatureConvertor.dll
+D:\scd\HelloWorld\temperatureConvertor\bin\Debug\net10.0\temperatureConvertor.pdb
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.AssemblyInfo.cs
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.sourcelink.json
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.dll
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\refint\temperatureConvertor.dll
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.pdb
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperatureConvertor.genruntimeconfig.cache
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\ref\temperatureConvertor.dll
+D:\scd\HelloWorld\temperatureConvertor\obj\Debug\net10.0\temperat.71FAA8A8.Up2Date

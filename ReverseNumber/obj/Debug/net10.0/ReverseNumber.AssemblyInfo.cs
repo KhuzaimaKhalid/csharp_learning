@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9625e47eb5f2bfe0d0047a178dbff68c2599692")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

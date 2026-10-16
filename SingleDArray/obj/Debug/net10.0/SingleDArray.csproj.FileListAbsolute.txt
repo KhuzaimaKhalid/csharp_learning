@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\SingleDArray\bin\Debug\net10.0\SingleDArray.exe
+D:\scd\HelloWorld\SingleDArray\bin\Debug\net10.0\SingleDArray.deps.json
+D:\scd\HelloWorld\SingleDArray\bin\Debug\net10.0\SingleDArray.runtimeconfig.json
+D:\scd\HelloWorld\SingleDArray\bin\Debug\net10.0\SingleDArray.dll
+D:\scd\HelloWorld\SingleDArray\bin\Debug\net10.0\SingleDArray.pdb
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.AssemblyInfo.cs
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.sourcelink.json
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.dll
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\refint\SingleDArray.dll
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.pdb
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDArray.genruntimeconfig.cache
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\ref\SingleDArray.dll
+D:\scd\HelloWorld\SingleDArray\obj\Debug\net10.0\SingleDA.D5C28A84.Up2Date

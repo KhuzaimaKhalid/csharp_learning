@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.AssemblyInfo.cs
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.sourcelink.json
+D:\scd\HelloWorld\2darray\bin\Debug\net10.0\2darray.exe
+D:\scd\HelloWorld\2darray\bin\Debug\net10.0\2darray.deps.json
+D:\scd\HelloWorld\2darray\bin\Debug\net10.0\2darray.runtimeconfig.json
+D:\scd\HelloWorld\2darray\bin\Debug\net10.0\2darray.dll
+D:\scd\HelloWorld\2darray\bin\Debug\net10.0\2darray.pdb
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.dll
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\refint\2darray.dll
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.pdb
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.genruntimeconfig.cache
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\ref\2darray.dll
+D:\scd\HelloWorld\2darray\obj\Debug\net10.0\2darray.csproj.Up2Date

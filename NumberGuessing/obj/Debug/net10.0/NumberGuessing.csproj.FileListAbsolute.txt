@@ -13,3 +13,4 @@ D:\scd\HelloWorld\NumberGuessing\obj\Debug\net10.0\NumberGuessing.pdb
 D:\scd\HelloWorld\NumberGuessing\obj\Debug\net10.0\NumberGuessing.genruntimeconfig.cache
 D:\scd\HelloWorld\NumberGuessing\obj\Debug\net10.0\ref\NumberGuessing.dll
 D:\scd\HelloWorld\NumberGuessing\obj\Debug\net10.0\NumberGu.066075D8.Up2Date
+D:\scd\HelloWorld\NumberGuessing\obj\Debug\net10.0\NumberGuessing.sourcelink.json

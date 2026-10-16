@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\palindrome\bin\Debug\net10.0\palindrome.exe
+D:\scd\HelloWorld\palindrome\bin\Debug\net10.0\palindrome.deps.json
+D:\scd\HelloWorld\palindrome\bin\Debug\net10.0\palindrome.runtimeconfig.json
+D:\scd\HelloWorld\palindrome\bin\Debug\net10.0\palindrome.dll
+D:\scd\HelloWorld\palindrome\bin\Debug\net10.0\palindrome.pdb
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.AssemblyInfo.cs
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.sourcelink.json
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.dll
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\refint\palindrome.dll
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.pdb
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.genruntimeconfig.cache
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\ref\palindrome.dll
+D:\scd\HelloWorld\palindrome\obj\Debug\net10.0\palindrome.csproj.Up2Date

@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\sumOfAllElements\bin\Debug\net10.0\sumOfAllElements.exe
+D:\scd\HelloWorld\sumOfAllElements\bin\Debug\net10.0\sumOfAllElements.deps.json
+D:\scd\HelloWorld\sumOfAllElements\bin\Debug\net10.0\sumOfAllElements.runtimeconfig.json
+D:\scd\HelloWorld\sumOfAllElements\bin\Debug\net10.0\sumOfAllElements.dll
+D:\scd\HelloWorld\sumOfAllElements\bin\Debug\net10.0\sumOfAllElements.pdb
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.AssemblyInfo.cs
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.sourcelink.json
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.dll
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\refint\sumOfAllElements.dll
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.pdb
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAllElements.genruntimeconfig.cache
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\ref\sumOfAllElements.dll
+D:\scd\HelloWorld\sumOfAllElements\obj\Debug\net10.0\sumOfAll.F6CEFE27.Up2Date

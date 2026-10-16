@@ -13,3 +13,4 @@ D:\scd\HelloWorld\Table\obj\Debug\net10.0\Table.pdb
 D:\scd\HelloWorld\Table\obj\Debug\net10.0\Table.genruntimeconfig.cache
 D:\scd\HelloWorld\Table\obj\Debug\net10.0\ref\Table.dll
 D:\scd\HelloWorld\Table\obj\Debug\net10.0\Table.csproj.Up2Date
+D:\scd\HelloWorld\Table\obj\Debug\net10.0\Table.sourcelink.json

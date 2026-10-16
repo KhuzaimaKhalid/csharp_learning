@@ -13,3 +13,4 @@ D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.pdb
 D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.genruntimeconfig.cache
 D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\ref\DayOfWeek.dll
 D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.csproj.Up2Date
+D:\scd\HelloWorld\DayOfWeek\obj\Debug\net10.0\DayOfWeek.sourcelink.json

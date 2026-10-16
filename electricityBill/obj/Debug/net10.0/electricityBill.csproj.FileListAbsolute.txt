@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.AssemblyInfo.cs
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.sourcelink.json
+D:\scd\HelloWorld\electricityBill\bin\Debug\net10.0\electricityBill.exe
+D:\scd\HelloWorld\electricityBill\bin\Debug\net10.0\electricityBill.deps.json
+D:\scd\HelloWorld\electricityBill\bin\Debug\net10.0\electricityBill.runtimeconfig.json
+D:\scd\HelloWorld\electricityBill\bin\Debug\net10.0\electricityBill.dll
+D:\scd\HelloWorld\electricityBill\bin\Debug\net10.0\electricityBill.pdb
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.dll
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\refint\electricityBill.dll
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.pdb
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electricityBill.genruntimeconfig.cache
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\ref\electricityBill.dll
+D:\scd\HelloWorld\electricityBill\obj\Debug\net10.0\electric.5EFB9DBA.Up2Date

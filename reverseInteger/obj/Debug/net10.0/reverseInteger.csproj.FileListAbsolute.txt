@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\reverseInteger\bin\Debug\net10.0\reverseInteger.exe
+D:\scd\HelloWorld\reverseInteger\bin\Debug\net10.0\reverseInteger.deps.json
+D:\scd\HelloWorld\reverseInteger\bin\Debug\net10.0\reverseInteger.runtimeconfig.json
+D:\scd\HelloWorld\reverseInteger\bin\Debug\net10.0\reverseInteger.dll
+D:\scd\HelloWorld\reverseInteger\bin\Debug\net10.0\reverseInteger.pdb
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.AssemblyInfo.cs
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.sourcelink.json
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.dll
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\refint\reverseInteger.dll
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.pdb
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseInteger.genruntimeconfig.cache
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\ref\reverseInteger.dll
+D:\scd\HelloWorld\reverseInteger\obj\Debug\net10.0\reverseI.80FBD338.Up2Date

@@ -1,0 +1,16 @@
+D:\scd\HelloWorld\largestNumber\bin\Debug\net10.0\largestNumber.exe
+D:\scd\HelloWorld\largestNumber\bin\Debug\net10.0\largestNumber.deps.json
+D:\scd\HelloWorld\largestNumber\bin\Debug\net10.0\largestNumber.runtimeconfig.json
+D:\scd\HelloWorld\largestNumber\bin\Debug\net10.0\largestNumber.dll
+D:\scd\HelloWorld\largestNumber\bin\Debug\net10.0\largestNumber.pdb
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.AssemblyInfoInputs.cache
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.AssemblyInfo.cs
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.csproj.CoreCompileInputs.cache
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.sourcelink.json
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.dll
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\refint\largestNumber.dll
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.pdb
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestNumber.genruntimeconfig.cache
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\ref\largestNumber.dll
+D:\scd\HelloWorld\largestNumber\obj\Debug\net10.0\largestN.9960E5C3.Up2Date

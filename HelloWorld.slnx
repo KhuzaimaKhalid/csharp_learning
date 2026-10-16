@@ -1,15 +1,25 @@
 <Solution>
   <Project Path="../p1/p1.csproj" Id="2fdbda2b-40da-4a23-83ca-5498676ffd22" />
+  <Project Path="2darray/2darray.csproj" Id="130477ef-3b58-46bb-a5f7-d23b0042c5c0" />
+  <Project Path="arithmeticCalculator/arithmeticCalculator.csproj" Id="ba05023a-c378-414c-97ea-db8363913fed" />
   <Project Path="DayOfWeek/DayOfWeek.csproj" Id="99bf8183-dcdd-4364-816f-1d97a8548c7b" />
+  <Project Path="electricityBill/electricityBill.csproj" Id="5ea37d27-a358-47ea-9452-18cdd7f1cbfe" />
   <Project Path="foreachloop/foreachloop.csproj" Id="1ee6f712-43ba-4cd7-8b2b-a7d9e858277f" />
   <Project Path="GradeCalculator/GradeCalculator.csproj" Id="d096e804-9718-4c5d-b293-97119133b7c2" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="largestNumber/largestNumber.csproj" Id="fcaad401-0c98-430b-8ea3-8f04841eb4a2" />
   <Project Path="LeapYear/LeapYear.csproj" Id="93329ddf-52f2-47f2-838b-7c9c175e7508" />
   <Project Path="negativeNUmber/negativeNUmber.csproj" Id="4fb91654-b5fd-4c72-9ffe-ddc674dd3745" />
   <Project Path="NumberGuessing/NumberGuessing.csproj" Id="fbd7087c-cf54-436d-924c-7a2d145e11cd" />
   <Project Path="p2/p2.csproj" Id="cd40a55f-189b-4ddf-a7a7-06afb7934b63" />
   <Project Path="p3/p3.csproj" Id="8d4b5acf-1bd3-4d99-9a92-9da146d65075" />
+  <Project Path="palindrome/palindrome.csproj" Id="d2584dd9-6e3b-4c70-a9f2-3e2a8dad5177" />
+  <Project Path="reverseInteger/reverseInteger.csproj" Id="37ede1e2-12e7-4b4e-a6e7-fe4220aed2cf" />
   <Project Path="ReverseNumber/ReverseNumber.csproj" Id="37749501-5d2b-4914-b4e4-7bea2abde100" />
+  <Project Path="simpleInterestCalculator/simpleInterestCalculator.csproj" Id="5b6a852d-5fe1-44ff-aabd-2977e9126d44" />
   <Project Path="SingleDArray/SingleDArray.csproj" Id="70aab505-1ba0-4168-ae1a-83deb6c8e5c8" />
+  <Project Path="studentInformation/studentInformation.csproj" Id="42fe238c-a3b9-4181-bf09-e7183c8b2f32" />
+  <Project Path="sumOfAllElements/sumOfAllElements.csproj" Id="8c0e1079-e078-47e2-8fee-b5f707cc49b1" />
   <Project Path="Table/Table.csproj" Id="fcfcfcfe-0aff-43a8-9d96-a53f9a290d86" />
+  <Project Path="temperatureConvertor/temperatureConvertor.csproj" Id="83c3c678-e40f-42a1-a340-7815ec12ce21" />
 </Solution>

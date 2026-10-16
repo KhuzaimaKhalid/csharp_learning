@@ -13,3 +13,4 @@ D:\scd\HelloWorld\p3\obj\Debug\net10.0\p3.pdb
 D:\scd\HelloWorld\p3\obj\Debug\net10.0\p3.genruntimeconfig.cache
 D:\scd\HelloWorld\p3\obj\Debug\net10.0\ref\p3.dll
 D:\scd\HelloWorld\p3\obj\Debug\net10.0\p3.csproj.Up2Date
+D:\scd\HelloWorld\p3\obj\Debug\net10.0\p3.sourcelink.json

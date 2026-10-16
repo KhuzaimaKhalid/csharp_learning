@@ -13,3 +13,4 @@ D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
 D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
 D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
 D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.Up2Date
+D:\scd\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json

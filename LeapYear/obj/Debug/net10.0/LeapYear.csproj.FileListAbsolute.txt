@@ -13,3 +13,4 @@ D:\scd\HelloWorld\LeapYear\obj\Debug\net10.0\LeapYear.pdb
 D:\scd\HelloWorld\LeapYear\obj\Debug\net10.0\LeapYear.genruntimeconfig.cache
 D:\scd\HelloWorld\LeapYear\obj\Debug\net10.0\ref\LeapYear.dll
 D:\scd\HelloWorld\LeapYear\obj\Debug\net10.0\LeapYear.csproj.Up2Date
+D:\scd\HelloWorld\LeapYear\obj\Debug\net10.0\LeapYear.sourcelink.json
